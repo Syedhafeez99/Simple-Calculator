@@ -1,5 +1,5 @@
 # Description
-This image shows a digital calculator interface. The calculator features a standard layout with numerical and arithmetic function buttons. The interface is clean and minimalistic, making it easy to use for basic arithmetic operations.
+This shows a digital calculator interface. The calculator features a standard layout with numerical and arithmetic function buttons. The interface is clean and minimalistic, making it easy to use for basic arithmetic operations.
 
 ## Interface Elements
 1. *Top Bar Icons:*
